@@ -1,0 +1,4 @@
+#kwlist=["depression", "#depression", "#depressionisreal", "#notjustsad", "#depressionisnotajoke", "#depressionquotes"]
+#kwlist=["cancer", "#cancer", "#breastcancer", "#prostratecancer", "#cancerresearch", "#braincancer"]
+#kwlist=["diabetes", "diabetic", "#diabetes","#diabetic","#diabetestype","#diabetesawareness","#insulin" ]
+#kwlist=["alzheimer", "alzheimers", "dementia", "parkinson", "#alzheimer", "#parkinson", "#dementia", "#alzheimers", "#alzheimersawareness", "#demenz", "#demencia", "#dementiaawareness"]
