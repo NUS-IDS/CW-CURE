@@ -1,6 +1,6 @@
 # CW-CURE
 
-###  This is the official data repository for the following CIKM 2022 paper from NUS IDS: [CCC: A Novel Dataset for Checkworthy Cure Claims](https://arxiv.org/)
+###  This is the official data repository for the CW-CURE
 
 ## Raw tweet data
 You can find the raw tweet data here:
