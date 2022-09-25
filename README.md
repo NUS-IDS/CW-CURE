@@ -2,6 +2,8 @@
 
 ###  This is the official data repository for the CW-CURE
 
+Publication under review
+
 ## Raw tweet data
 You can find the raw tweet data here:
 * Alzheimers [tsv](/raw_tweets/alzheimers.tsv)
