@@ -2,7 +2,10 @@
 
 ###  This is the official data repository for the CW-CURE
 
-Publication under review
+Associated publication: 
+Sujatha Das Gollapalli, Mingzhe Du, See-Kiong Ng. 2023. 
+Identifying Checkworthy CURE Claims on Twitter. In Proceedings of the ACM Web Conference 2023 (WWW ’23), May 1–5, 2023, Austin, TX, USA. ACM, New
+York, NY, USA, 6 pages. https://doi.org/10.1145/3543507.3583870
 
 ## Raw tweet data
 You can find the raw tweet data here:
