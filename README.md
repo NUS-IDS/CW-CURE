@@ -1,6 +1,6 @@
 # CW-CURE
 
-###  This is the official data repository for the CW-CURE
+###  This is the official repository for the CW-CURE dataset
 
 Associated publication: 
 Sujatha Das Gollapalli, Mingzhe Du, See-Kiong Ng. 2023. 
